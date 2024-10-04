@@ -3,7 +3,8 @@ I used CryptoZombies to learn how to create a random zombie generator. The progr
 ![ZombieRandGen](https://github.com/user-attachments/assets/ced037bb-c47e-432b-ba25-f6f9087502e3)
 <h3>Advanced Solidity Concepts</h3>
  zombie generated and new name change is now implemented.
- new![NewZombieName](https://github.com/user-attachments/assets/1c8efd59-798b-41fe-80bf-74265fcfdb73)
+ ![NewZombieName](https://github.com/user-attachments/assets/1855b512-bef9-41ab-a04b-c4488bf43ce3)
+
  We've added a way to update our CryptoKitties contracts
 We've learned to protect core functions with onlyOwner
 We've learned about gas and gas optimization
